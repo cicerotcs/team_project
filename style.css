@@ -5,3 +5,12 @@ body {
 img {
     width: 50%vw;
 }
+
+button {
+    color: rebeccapurple;
+}
+
+.footnote {
+    font-size: xx-small;
+    color: lightgray;
+}
